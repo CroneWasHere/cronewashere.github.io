@@ -1,0 +1,27 @@
+h1, h2 {
+	
+}
+
+h4 {
+	margin: 15px;
+}
+
+nav {
+
+}
+
+p {
+	margin: 15px;
+}
+
+article {
+	width: 50%;
+}
+
+#nota-bene {
+	background-color: #F9E076;
+}
+
+#ability-check {
+	border: 5px dashed #59788E;
+}
